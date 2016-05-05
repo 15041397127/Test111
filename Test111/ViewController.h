@@ -10,6 +10,11 @@
 
 @interface ViewController : UIViewController
 
+-(UIImage *)grayImage:(UIImage *)sourceImage;
+
+//-(UIImage *)imageWithColor:(UIColor *)color;
+
+//- (UIImage*) createImageWithColor: (UIColor*)color;
 
 @end
 
